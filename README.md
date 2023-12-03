@@ -9,7 +9,7 @@ I like programming and I am a expert at it. I code in many languages, such as C#
 
 I have a [website with my projects](https://mldkyt.com/).
 
-I am on [YouTube](https://youtube.com/@programmer.astolfo), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/programmerastolfo) and [Reddit](https://reddit.com/u/MLDKYT) [(Subreddit)](https://reddit.com/r/mldkyt).
+I am on [YouTube](https://youtube.com/@programmer.astolfo), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/programmerastolfo) and [Reddit](https://reddit.com/u/MLDKYT).
 
 You can also add me on [Steam](https://steamcommunity.com/id/mldkyt/)
 

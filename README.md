@@ -20,6 +20,7 @@ I've released some cool stuff like:
 - [Astolfo Forge Mod](https://github.com/mldkyt/AstolfoForge/releases) - An Astolfo themed forge mod that adds many femboys and many ways to play with them :3
 - [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - An Astolfo resource pack for Minecraft 1.20.1.
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
+- [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom rewritten in Rust.
 - I also listed some of my [older projects here](https://mldkyt.com/project/olderprojects).
 
 Also, アストルフォの可愛い

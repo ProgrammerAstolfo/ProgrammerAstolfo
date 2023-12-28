@@ -5,13 +5,11 @@
 
 ## Haiii! I am mldkyt!
 
-I like programming and I am a expert at it. I code in many languages, such as C#, C++, HTML, CSS, JavaScript, Python, Rust, Go and many others that I forgot to list.
+I am very good at programming. I code in many languages, such as C#, C++, HTML, CSS, JavaScript, Python, Rust, Go, PHP and many others that I forgot to list.
 
 I have a [website with my projects](https://mldkyt.com/).
 
-I am on [YouTube](https://youtube.com/@programmer.astolfo), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/programmerastolfo) and [Reddit](https://reddit.com/u/MLDKYT).
-
-You can also add me on [Steam](https://steamcommunity.com/id/mldkyt/)
+I am on [YouTube](https://youtube.com/@programmer.astolfo), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/programmerastolfo), [Reddit](https://reddit.com/u/MLDKYT) and [Twitter (inactive)](https://twitter.com/@mldkyt).
 
 I've released some cool stuff like:
 
@@ -22,5 +20,4 @@ I've released some cool stuff like:
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom rewritten in Rust.
 - I also listed some of my [older projects here](https://mldkyt.com/project/olderprojects).
-
-Also, アストルフォの可愛い
+- 

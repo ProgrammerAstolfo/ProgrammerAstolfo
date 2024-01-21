@@ -19,5 +19,7 @@ I've released some cool stuff like:
 - [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - An Astolfo resource pack for Minecraft 1.20.1.
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom rewritten in Rust.
-- I also listed some of my [older projects here](https://mldkyt.com/project/olderprojects).
-- 
+- [Asphalt Roads](https://www.mldkyt.com/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
+- [OldCarSounds](https://www.mldkyt.com/project/oldcarsounds) - A mod that changes sounds to older versions of the game.
+- [MSC Tweaks](https://www.mldkyt.com/project/msctweaks) - A set of My Summer Car Tweaks.
+- [Kekmet More Gears](https://www.mldkyt.com/project/kekmetmoregears) - (ARCHIVE) A mod that allowed you to buy more gears into the kekmet.

@@ -7,9 +7,9 @@
 
 I am very good at programming. I code in many languages, such as C#, C++, HTML, CSS, JavaScript, Python, Rust, Go, PHP and many others that I forgot to list.
 
-I have a [website with my projects](https://mldkyt.com/).
+I have a [website with my projects](https://mldkyt.com/). Explore them by using the dropdown menu at the top of the website.
 
-I am on [YouTube](https://youtube.com/@programmer.astolfo), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/programmerastolfo), [Reddit](https://reddit.com/u/MLDKYT) and [Twitter (inactive)](https://twitter.com/@mldkyt).
+I am on [YouTube](https://youtube.com/@mldkyt), [TikTok](https://tiktok.com/@mldkyt), [Twitch](https://twitch.tv/mldkyt1), [Reddit](https://reddit.com/u/MLDKYT) and [Twitter (inactive)](https://twitter.com/@mldkyt).
 
 I've released some cool stuff like:
 

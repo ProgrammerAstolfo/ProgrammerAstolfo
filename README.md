@@ -22,4 +22,5 @@ I've released some cool stuff like:
 - [Asphalt Roads](https://www.mldkyt.com/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
 - [OldCarSounds](https://www.mldkyt.com/project/oldcarsounds) - A mod that changes sounds to older versions of the game.
 - [MSC Tweaks](https://www.mldkyt.com/project/msctweaks) - A set of My Summer Car Tweaks.
+- [Old Truck Sounds](https://www.mldkyt.com/project/oldtruck) - Old Car Sounds for the truck.
 - [Kekmet More Gears](https://www.mldkyt.com/project/kekmetmoregears) - (ARCHIVE) A mod that allowed you to buy more gears into the kekmet.

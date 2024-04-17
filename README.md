@@ -1,4 +1,4 @@
-## こんにちわ、アカツキです。 :3
+## こんにちは、アカツキです。 :3
 
 I am very good at programming. I code in many languages, such as C#, C++, HTML, CSS, JavaScript, Python, Rust, Go, PHP and many others that I forgot to list.
 

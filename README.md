@@ -21,5 +21,3 @@ I've released some cool stuff like:
 - [Old Kekmet](https://www.mldkyt.com/project/oldkekmet) - Old Kekmet sounds and visuals for My Summer Car.
 - [Old Ferndale](https://www.mldkyt.com/project/oldferndale) - Old Ferndale sounds and skin for My Summer Car.
 - [Kekmet More Gears](https://www.mldkyt.com/project/kekmetmoregears) - (ARCHIVE) A mod that allowed you to buy more gears into the kekmet.
-
-**[![GitHub Trends](https://api.githubtrends.io/user/svg/Akatsuki230/langs)](https://githubtrends.io)**

@@ -9,12 +9,12 @@ I am on [YouTube](https://youtube.com/@Akatsuki2555), [Twitch](https://twitch.tv
 Project list (Last updated 2024/05/30):
 
 - [Akabot](https://akatsuki.nekoweb.org/project/akabot) - A Discord bot written by Akatsuki.
-- [Astolfo is coming for you](https://github.com/Akatsuki230/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.
-- [Astolfo Forge Mod](https://github.com/Akatsuki230/AstolfoForge/releases) - An Astolfo themed forge mod that adds many femboys and many ways to play with them :3
-- [Astolfo Resource pack](https://github.com/Akatsuki230/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - An Astolfo resource pack for Minecraft 1.20.1.
-- [AstolfOS](https://github.com/Akatsuki230/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
+- [Astolfo is coming for you](https://github.com/Akatsuki2555/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.
+- [Astolfo Forge Mod](https://github.com/Akatsuki2555/AstolfoForge/releases) - An Astolfo themed forge mod that adds many femboys and many ways to play with them :3
+- [Astolfo Resource pack](https://github.com/Akatsuki2555/AstolfoResourcePack) ([installer](https://github.com/Akatsuki2555/AstolfoResourcePackInstaller/releases/)) - An Astolfo resource pack for Minecraft 1.20.1.
+- [AstolfOS](https://github.com/Akatsuki2555/AstolfOS/wiki/) - A script that converts your Linux distro to AstolfOS.
 - [CatGirl Nonsense](https://akatsuki.nekoweb.org/project/catgirlnonsense/) - A catgirl nonsense generator.
-- [uwurandom-rs](https://github.com/Akatsuki230/uwurandom-rs/) - UwUrandom rewritten in Rust.
+- [uwurandom-rs](https://github.com/Akatsuki2555/uwurandom-rs/) - UwUrandom rewritten in Rust.
 - [Reg Plate Changer](https://akatsuki.nekoweb.org/project/regplatechanger) - Registration plate changer for My Summer Car.
 - [LGBTQ Pride Flags](https://akatsuki.nekoweb.org/project/msclgbtprideflags) - LGBTQ Pride Flags mod for My Summer Car.
 - [Water Bills](https://akatsuki.nekoweb.org/project/waterbills) - Adds water bills into My Summer Car.

@@ -20,11 +20,5 @@ Project list (Last updated 2024/05/30):
 - [Water Bills](https://akatsuki.nekoweb.org/project/waterbills) - Adds water bills into My Summer Car.
 - [Asphalt Roads](https://www.akatsuki.nekoweb.org/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
 - [Infinite Nitrous](https://akatsuki.nekoweb.org/project/infinitenitrous) - Infinite Nitrous for My Summer Car.
-- [OldCarSounds](https://www.akatsuki.nekoweb.org/project/oldcarsounds) - A mod that changes sounds to older versions of the game.
 - [MSC Tweaks](https://www.akatsuki.nekoweb.org/project/msctweaks) - A set of My Summer Car Tweaks.
-- [Old Truck Sounds](https://www.akatsuki.nekoweb.org/project/oldtruck) - Old Car Sounds for the truck.
-- [Old Kekmet](https://www.akatsuki.nekoweb.org/project/oldkekmet) - Old Kekmet sounds and visuals for My Summer Car.
-- [Old Ferndale](https://www.akatsuki.nekoweb.org/project/oldferndale) - Old Ferndale sounds and skin for My Summer Car.
-- [Old World](https://akatsuki.nekoweb.org/project/oldworld) - Old World mod for My Summer Car.
-- [Old Highway Cars](https://akatsuki.nekoweb.org/project/oldhighwaycars) - Old Highway Cars mod for My Summer Car.
-- [Kekmet More Gears](https://www.akatsuki.nekoweb.org/project/kekmetmoregears) - (ARCHIVE) A mod that allowed you to buy more gears into the kekmet.
+- [GoodOldMSC](https://akatsuki.nekoweb.org/project/goodoldmsc) - An upcoming mod combining all of the mods, including [OldCarSounds](https://akatsuki.nekoweb.org/project/oldcarsounds), [Old Hayosiko](https://akatsuki.nekoweb.org/project/oldhayosiko), [Old Ferndale](https://akatsuki.nekoweb.org/project/oldferndale), [Old World](https://akatsuki.nekoweb.org/project/oldworld), [Old Highway Cars](https://akatsuki.nekoweb.org/project/oldhighwaycars), [Old Truck](https://akatsuki.nekoweb.org/project/oldtrucksounds) and so on.

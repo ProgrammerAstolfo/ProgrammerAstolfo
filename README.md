@@ -18,7 +18,7 @@ Project list (Last updated 2024/05/30):
 - [Reg Plate Changer](https://akatsuki.nekoweb.org/project/regplatechanger) - Registration plate changer for My Summer Car.
 - [LGBTQ Pride Flags](https://akatsuki.nekoweb.org/project/msclgbtprideflags) - LGBTQ Pride Flags mod for My Summer Car.
 - [Water Bills](https://akatsuki.nekoweb.org/project/waterbills) - Adds water bills into My Summer Car.
-- [Asphalt Roads](https://www.akatsuki.nekoweb.org/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
+- [Asphalt Roads](https://akatsuki.nekoweb.org/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
 - [Infinite Nitrous](https://akatsuki.nekoweb.org/project/infinitenitrous) - Infinite Nitrous for My Summer Car.
-- [MSC Tweaks](https://www.akatsuki.nekoweb.org/project/msctweaks) - A set of My Summer Car Tweaks.
+- [MSC Tweaks](https://akatsuki.nekoweb.org/project/msctweaks) - A set of My Summer Car Tweaks.
 - [GoodOldMSC](https://akatsuki.nekoweb.org/project/goodoldmsc) - An upcoming mod combining all of the mods, including [OldCarSounds](https://akatsuki.nekoweb.org/project/oldcarsounds), [Old Hayosiko](https://akatsuki.nekoweb.org/project/oldhayosiko), [Old Ferndale](https://akatsuki.nekoweb.org/project/oldferndale), [Old World](https://akatsuki.nekoweb.org/project/oldworld), [Old Highway Cars](https://akatsuki.nekoweb.org/project/oldhighwaycars), [Old Truck](https://akatsuki.nekoweb.org/project/oldtrucksounds) and so on.

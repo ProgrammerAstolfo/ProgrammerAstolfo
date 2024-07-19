@@ -6,7 +6,7 @@ I have a [website with my projects](https://akatsuki.nekoweb.org/). Explore them
 
 I am on [YouTube](https://youtube.com/@Akatsuki2555), [Twitch](https://twitch.tv/Akatsuki2555), [Reddit](https://reddit.com/u/Akatsuki_2555), [Twitter](https://twitter.com/@Akatsuki2555) and [Mastodon](https://mastodon.catgirl.cloud/deck/@Akatsuki).
 
-Project list (Last updated 2024/05/30):
+Project list (Last updated 2024/07/19):
 
 - [Akabot](https://akatsuki.nekoweb.org/project/akabot) - A Discord bot written by Akatsuki.
 - [Astolfo is coming for you](https://github.com/Akatsuki2555/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.
@@ -16,9 +16,7 @@ Project list (Last updated 2024/05/30):
 - [CatGirl Nonsense](https://akatsuki.nekoweb.org/project/catgirlnonsense/) - A catgirl nonsense generator.
 - [uwurandom-rs](https://github.com/Akatsuki2555/uwurandom-rs/) - UwUrandom rewritten in Rust.
 - [Reg Plate Changer](https://akatsuki.nekoweb.org/project/regplatechanger) - Registration plate changer for My Summer Car.
-- [LGBTQ Pride Flags](https://akatsuki.nekoweb.org/project/msclgbtprideflags) - LGBTQ Pride Flags mod for My Summer Car.
-- [Water Bills](https://akatsuki.nekoweb.org/project/waterbills) - Adds water bills into My Summer Car.
+- [Pride Mod](https://akatsuki.nekoweb.org/project/pridemod) - LGBTQ Pride Flags mod for My Summer Car.
 - [Asphalt Roads](https://akatsuki.nekoweb.org/project/asphaltroads) - A My Summer Car mod that changes dirt roads to asphalt.
-- [Infinite Nitrous](https://akatsuki.nekoweb.org/project/infinitenitrous) - Infinite Nitrous for My Summer Car.
 - [MSC Tweaks](https://akatsuki.nekoweb.org/project/msctweaks) - A set of My Summer Car Tweaks.
 - [GoodOldMSC](https://akatsuki.nekoweb.org/project/goodoldmsc) - An upcoming mod combining all of the mods, including [OldCarSounds](https://akatsuki.nekoweb.org/project/oldcarsounds), [Old Hayosiko](https://akatsuki.nekoweb.org/project/oldhayosiko), [Old Ferndale](https://akatsuki.nekoweb.org/project/oldferndale), [Old World](https://akatsuki.nekoweb.org/project/oldworld), [Old Highway Cars](https://akatsuki.nekoweb.org/project/oldhighwaycars), [Old Truck](https://akatsuki.nekoweb.org/project/oldtrucksounds) and so on.

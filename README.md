@@ -6,7 +6,7 @@ I have a [website with my projects](https://akatsuki.nekoweb.org/). Explore them
 
 I am on [YouTube](https://youtube.com/@Akatsuki2555), [Twitch](https://twitch.tv/Akatsuki2555), [Reddit](https://reddit.com/u/Akatsuki_2555), [Twitter](https://twitter.com/@Akatsuki2555) and [Mastodon](https://mastodon.catgirl.cloud/deck/@Akatsuki).
 
-Project list (Last updated 2024/07/19):
+Project list (Last updated 2024年07月19日):
 
 - [Akabot](https://akatsuki.nekoweb.org/project/akabot) - A Discord bot written by Akatsuki.
 - [Astolfo is coming for you](https://github.com/Akatsuki2555/AstolfoIsComingForYou/releases) - Astolfo comes to your house with either compliments or to shut down your PC.

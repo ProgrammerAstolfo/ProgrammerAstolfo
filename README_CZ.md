@@ -1,6 +1,6 @@
 ## Dobrý den, tady mldkyt.
 
-(English)[https://github.com/mldkyt/mldkyt/README.md]|(Español)[https://github.com/mldkyt/mldkyt/README_ES.md]|(日本語)[https://github.com/mldkyt/mldkyt/README_JA.md]|(简体中文)[https://github.com/mldkyt/mldkyt/README_CN.md]|(Русский)[https://github.com/mldkyt/mldkyt/README_RU.md]|(Čeština)[https://github.com/mldkyt/mldkyt/README_CZ.md]
+[English](https://github.com/mldkyt/mldkyt/README.md) | [Español](https://github.com/mldkyt/mldkyt/README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/README_CZ.md)
 
 Dobrý den, já jsem mldkyt! Jsem trans kočičí holka, která ráda tvoří různý obsah. Vytvářím mody My Summer Car, ačkoli se za modera My Summer Car nepovažuji. Vytvářím různé další projekty, mezi které patří Akabot, mnou vytvořený Discord bot, Astolfo Forge Mod, který do Minecraftu přidává bandu femboys nebo Astolfo is coming for you, což je windowsový program, ve kterém za vámi přijde Astolfo a nazve vás skvělým člověkem. Občas také natáčím videa na YouTube, kde představuji své projekty, mody, úspěchy, návody a další obsah.
 

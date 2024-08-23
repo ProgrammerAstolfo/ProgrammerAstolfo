@@ -1,6 +1,6 @@
 ## こんにちは mldkytです
 
-(English)[https://github.com/mldkyt/mldkyt/README.md]|(Español)[https://github.com/mldkyt/mldkyt/README_ES.md]|(日本語)[https://github.com/mldkyt/mldkyt/README_JA.md]|(简体中文)[https://github.com/mldkyt/mldkyt/README_CN.md]|(Русский)[https://github.com/mldkyt/mldkyt/README_RU.md]|(Čeština)[https://github.com/mldkyt/mldkyt/README_CZ.md]
+[English](https://github.com/mldkyt/mldkyt/README.md) | [Español](https://github.com/mldkyt/mldkyt/README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/README_CZ.md)
 
 こんにちは、mldkytです！いろいろなコンテンツを作るのが好きなトランス猫娘です。My Summer CarのMODを作っています。AkabotというDiscordのボットや、Astolfo Forge ModというMinecraftにたくさんのフェムボーイを追加したり、Astolfo is coming for youというAstolfoがあなたのところにやってきてあなたを素晴らしい人間だと言ってくれるウィンドウズプログラムを作ったりしています。自分のプロジェクトやMOD、成功談、チュートリアルなどのコンテンツをYouTubeにアップすることもあります。
 

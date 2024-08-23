@@ -1,6 +1,6 @@
 ## Здравствуйте, это mldkyt.
 
-[English](https://github.com/mldkyt/mldkyt/README.md) | [Español](https://github.com/mldkyt/mldkyt/README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/README_CZ.md)
+[English](https://github.com/mldkyt/mldkyt/blob/main//README.md) | [Español](https://github.com/mldkyt/mldkyt/blob/main//README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/blob/main//README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/blob/main//README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/blob/main//README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/blob/main//README_CZ.md)
 
 Привет, я mldkyt! Я транс-кошатница, которой нравится создавать разнообразный контент. Я делаю моды для My Summer Car, хотя и не считаю себя моддером My Summer Car. Я делаю множество других проектов, среди которых Akabot, мой бот для Discord, Astolfo Forge Mod, который добавляет кучу фембоев в Minecraft, или Astolfo is coming for you, который является программой windows, где Astolfo приходит к вам, чтобы назвать вас великим человеком. Иногда я также снимаю видео на YouTube, в которых рассказываю о своих проектах, модах, успехах, туториалах и прочем контенте.
 

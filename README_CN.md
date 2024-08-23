@@ -1,6 +1,6 @@
 ## 你好，我是 mldkyt。
 
-[English](https://github.com/mldkyt/mldkyt/README.md) | [Español](https://github.com/mldkyt/mldkyt/README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/README_CZ.md)
+[English](https://github.com/mldkyt/mldkyt/blob/main//README.md) | [Español](https://github.com/mldkyt/mldkyt/blob/main//README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/blob/main//README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/blob/main//README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/blob/main//README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/blob/main//README_CZ.md)
 
 你好，我是 mldkyt！我是一个喜欢制作各种内容的变性猫女。我制作 “我的夏日汽车”（My Summer Car）模型，但我并不以 “我的夏日汽车”（My Summer Car）模型制作者自居。我还制作了很多其他项目，其中包括 Akabot（我制作的 Discord 机器人）、Astolfo Forge Mod（将一群女汉子添加到威廉与魔兽中）或 Astolfo is coming for you（Astolfo 来找你了），这是一个窗口程序，Astolfo 会来到你身边，称你为伟大的人类。我有时还会制作 YouTube 视频，介绍我的项目、MOD、成功经验、教程和其他内容。
 

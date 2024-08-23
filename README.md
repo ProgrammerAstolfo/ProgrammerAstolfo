@@ -1,6 +1,6 @@
 ## Hello, it is mldkyt.
 
-[English](https://github.com/mldkyt/mldkyt/README.md) | [Español](https://github.com/mldkyt/mldkyt/README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/README_CZ.md)
+[English](https://github.com/mldkyt/mldkyt/blob/main//README.md) | [Español](https://github.com/mldkyt/mldkyt/blob/main//README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/blob/main//README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/blob/main//README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/blob/main//README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/blob/main//README_CZ.md)
 
 Hello, I'm mldkyt! I'm a trans catgirl who enjoys making a variety of content. I make My Summer Car mods though I don't identify as a My Summer Car modder. I make a variety of other projects that include Akabot, a Discord bot by me, Astolfo Forge Mod, which adds a bunch of femboys into Minecraft or Astolfo is coming for you, which is a windows program where Astolfo comes to you to call you a great human being. I sometimes also make YouTube videos featuring my projects, mods, successes, tutorials and other content.
 

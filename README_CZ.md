@@ -11,13 +11,13 @@ Jsem na [YouTube](https://youtube.com/@mldkyt), [Twitch](https://twitch.tv/mldky
 Seznam projektů (Poslední aktualizace 2024年08月12日):
 
 - [Akabot](https://mldkyt.nekoweb.org/project/akabot) - funkcemi nabitý bot pro Discord.
-- Astolfo si pro vás přijde](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfo k vám domů přijde buď s komplimenty, nebo aby vám vypnul počítač.
-- Astolfo Forge Mod](https://github.com/mldkyt/AstolfoForge/releases) - Kovářský mod s tématikou Astolfo, který přidává mnoho femboys a mnoho způsobů, jak s nimi hrát :3
-- Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Balíček zdrojů Astolfo pro Minecraft 1.20.1. V tomto balíčku jsou obsaženy všechny důležité informace o Astolfo.
+- [Astolfo si pro vás přijde](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfo k vám domů přijde buď s komplimenty, nebo aby vám vypnul počítač.
+- [Astolfo Forge Mod](https://github.com/mldkyt/AstolfoForge/releases) - Kovářský mod s tématikou Astolfo, který přidává mnoho femboys a mnoho způsobů, jak s nimi hrát :3
+- [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Balíček zdrojů Astolfo pro Minecraft 1.20.1. V tomto balíčku jsou obsaženy všechny důležité informace o Astolfo.
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - Skript, který převede vaši linuxovou distribuci na AstolfOS.
-- CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - Generátor nesmyslů o kočičích holkách.
+- [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - Generátor nesmyslů o kočičích holkách.
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom přepsaný do jazyka Rust.
 
 Pokud hledáte mé mody My Summer Car, skončil jsem. Jejich archiv najdete zde. 
 
-Translated with DeepL.com (free version)
+Přeloženo pomocí DeepL.com (volná verze)

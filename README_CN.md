@@ -11,11 +11,11 @@
 项目列表（最后更新日期：2024 年 08 月 12 日）：
 
 - [Akabot](https://mldkyt.nekoweb.org/project/akabot) - 一个功能齐全的 Discord 机器人。
-- [Astolfo is coming for you](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfo 带着赞美或关闭你的电脑来到你家。
-- 阿斯托福锻造模组](https://github.com/mldkyt/AstolfoForge/releases) - 一个以阿斯托福为主题的锻造模组，添加了许多女性角色和多种玩法：3
-- [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - 适用于 Minecraft 1.20.1 的 Astolfo 资源包。
+- [Astolfo 来找你了](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfo 带着赞美或关闭你的电脑来到你家。
+- [阿斯托福锻造模组](https://github.com/mldkyt/AstolfoForge/releases) - 一个以阿斯托福为主题的锻造模组，添加了许多女性角色和多种玩法：3
+- [阿斯托福资源包](https://github.com/mldkyt/AstolfoResourcePack) ([安装程序](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - 适用于 Minecraft 1.20.1 的阿斯托福资源包。
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - 一个将你的 Linux 发行版转换为 AstolfOS 的脚本。
-- [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 一个猫女胡言乱语生成器。
+- [猫女胡言乱语](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 一个猫女胡言乱语生成器。
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - 用 Rust 重写的 UwUrandom。
 
 如果您在找我的 My Summer Car mods，我已经退出了。你可以在这里找到它们的存档。

@@ -11,11 +11,13 @@
 プロジェクトリスト（最終更新2024年08月12日）：
 
 - [Akabot](https://mldkyt.nekoweb.org/project/akabot) - 機能満載のDiscordボット。
-- [Astolfo is coming for you](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfoがあなたの家にお褒めの言葉やPCをシャットダウンするためにやってきます。
-- [Astolfo Forge Mod](https://github.com/mldkyt/AstolfoForge/releases) - アストルフォをテーマにした鍛冶屋MODで、たくさんのフェムボーイとその遊び方を追加します :3
-- [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Minecraft 1.20.1 用の Astolfo リソースパック。
+- [アストルフォはあなたの家にやってきます](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfoがあなたの家にお褒めの言葉やPCをシャットダウンするためにやってきます。
+- [アストルフォフォージューモッド](https://github.com/mldkyt/AstolfoForge/releases) - アストルフォをテーマにした鍛冶屋MODで、たくさんのフェムボーイとその遊び方を追加します :3
+- [アストルフォリソースパック](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Minecraft 1.20.1 用の Astolfo リソースパック。
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - Linux distro を AstolfOS に変換するスクリプト。
-- [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 猫娘のナンセンスジェネレーター。
+- [猫娘のナンセンス](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 猫娘のナンセンスジェネレーター。
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - Rust で書き直した UwUrandom。
 
 My Summer Car modsをお探しでしたら、私はもう辞めました。アーカイブはここにあります。
+
+翻訳は DeepL.com (無料版) を使用しています。

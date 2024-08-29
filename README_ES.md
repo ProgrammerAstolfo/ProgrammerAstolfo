@@ -19,3 +19,5 @@ Lista de proyectos (Última actualización 2024年08月12日):
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom reescrito en Rust.
 
 Si estás buscando mis mods My Summer Car, los he dejado. Puedes encontrar sus archivos aquí. 
+
+Traductor con DeepL.com (versión gratuita)

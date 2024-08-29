@@ -17,5 +17,3 @@
 - [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - 一个将你的 Linux 发行版转换为 AstolfOS 的脚本。
 - [猫女胡言乱语](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 一个猫女胡言乱语生成器。
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - 用 Rust 重写的 UwUrandom。
-
-如果您在找我的 My Summer Car mods，我已经退出了。你可以在这里找到它们的存档。

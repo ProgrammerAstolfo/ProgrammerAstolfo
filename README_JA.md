@@ -18,6 +18,4 @@
 - [猫娘のナンセンス](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 猫娘のナンセンスジェネレーター。
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - Rust で書き直した UwUrandom。
 
-My Summer Car modsをお探しでしたら、私はもう辞めました。アーカイブはここにあります。
-
 翻訳は DeepL.com (無料版) を使用しています。

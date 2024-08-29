@@ -18,6 +18,4 @@
 - [Кошачьи глупости](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - Генератор глупостей про кошачьих девочек.
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom, переписанный на Rust.
 
-Если вы ищете мой мод My Summer Car, то я его забросил. Вы можете найти их архивы здесь. 
-
 Переведено с помощью DeepL.com (бесплатная версия)

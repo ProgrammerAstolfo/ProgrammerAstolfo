@@ -18,6 +18,4 @@ Seznam projektů (Poslední aktualizace 2024年08月12日):
 - [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - Generátor nesmyslů o kočičích holkách.
 - [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandom přepsaný do jazyka Rust.
 
-Pokud hledáte mé mody My Summer Car, skončil jsem. Jejich archiv najdete zde. 
-
 Přeloženo pomocí DeepL.com (volná verze)

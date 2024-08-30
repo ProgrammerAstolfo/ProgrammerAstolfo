@@ -1,21 +1,19 @@
-## こんにちは mldkytです
+## こんにちは、mldkytです。
 
 [English](https://github.com/mldkyt/mldkyt/blob/main//README.md) | [Español](https://github.com/mldkyt/mldkyt/blob/main//README_ES.md) | [日本語](https://github.com/mldkyt/mldkyt/blob/main//README_JA.md) | [简体中文](https://github.com/mldkyt/mldkyt/blob/main//README_CN.md) | [Русский](https://github.com/mldkyt/mldkyt/blob/main//README_RU.md) | [Čeština](https://github.com/mldkyt/mldkyt/blob/main//README_CZ.md)
 
-こんにちは、mldkytです！いろいろなコンテンツを作るのが好きなトランス猫娘です。My Summer CarのMODを作っています。AkabotというDiscordのボットや、Astolfo Forge ModというMinecraftにたくさんのフェムボーイを追加したり、Astolfo is coming for youというAstolfoがあなたのところにやってきてあなたを素晴らしい人間だと言ってくれるウィンドウズプログラムを作ったりしています。自分のプロジェクトやMOD、成功談、チュートリアルなどのコンテンツをYouTubeにアップすることもあります。
+こんにちは、mldkytです！私はトランスキャットガールで、さまざまなコンテンツを作るのが好きです。私のプロジェクトには、Discord用のボット「Akabot」、Minecraftにたくさんのフェンボーイを追加する「Astolfo Forge Mod」、そしてAstolfoがあなたを素晴らしい人間だと言ってくれるWindowsプログラム「Astolfo is coming for you」などがあります。時々、私のプロジェクトやモッド、成功事例、チュートリアルなどのコンテンツを紹介するYouTube動画も作っています。
 
-僕の[プロジェクトを集めたウェブサイト](https://mldkyt.nekoweb.org/)もあります。一番上の`Projects`をクリックしてページをスクロールしてください。ページ上部の`Socials`をクリックすると、私のソーシャルアカウントを見ることができます。ページ上部の`Miscellaneous`をクリックすると、少し違った作品を見ることができます。
+私のプロジェクトが掲載されている[ウェブサイト](https://mldkyt.nekoweb.org/)もあります。ページの上部にある「Projects」をクリックしてスクロールすると、さまざまなプロジェクトを探索できます。また、ページの上部にある「Socials」をクリックすると、私のソーシャルアカウントを探索できます。「Miscellaneous」をクリックすると、少し異なる作品も見ることができます。
 
-[YouTube](https://youtube.com/@mldkyt)、[Twitch](https://twitch.tv/mldkyt)、[Reddit](https://reddit.com/u/mldkyt)、[Twitter](https://twitter.com/@mldkyt)をやっています。
+私は[YouTube](https://youtube.com/@mldkyt)、[Twitch](https://twitch.tv/mldkyt)、[Reddit](https://reddit.com/u/mldkyt)、[Twitter](https://twitter.com/@mldkyt)にもいます。
 
-プロジェクトリスト（最終更新2024年08月12日）：
+プロジェクトリスト (最終更新日: 2024年08月12日):
 
 - [Akabot](https://mldkyt.nekoweb.org/project/akabot) - 機能満載のDiscordボット。
-- [アストルフォはあなたの家にやってきます](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfoがあなたの家にお褒めの言葉やPCをシャットダウンするためにやってきます。
-- [アストルフォフォージューモッド](https://github.com/mldkyt/AstolfoForge/releases) - アストルフォをテーマにした鍛冶屋MODで、たくさんのフェムボーイとその遊び方を追加します :3
-- [アストルフォリソースパック](https://github.com/mldkyt/AstolfoResourcePack) ([installer](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Minecraft 1.20.1 用の Astolfo リソースパック。
-- [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - Linux distro を AstolfOS に変換するスクリプト。
-- [猫娘のナンセンス](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - 猫娘のナンセンスジェネレーター。
-- [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - Rust で書き直した UwUrandom。
-
-翻訳は DeepL.com (無料版) を使用しています。
+- [Astolfo is coming for you](https://github.com/mldkyt/AstolfoIsComingForYou/releases) - Astolfoがあなたの家に来て、褒め言葉をかけたり、PCをシャットダウンしたりします。
+- [Astolfo Forge Mod](https://github.com/mldkyt/AstolfoForge/releases) - AstolfoテーマのForgeモッドで、多くのフェンボーイと一緒に遊べる方法がたくさんあります :3
+- [Astolfo Resource pack](https://github.com/mldkyt/AstolfoResourcePack) ([インストーラー](https://github.com/mldkyt/AstolfoResourcePackInstaller/releases/)) - Minecraft 1.20.1用のAstolfoリソースパック。
+- [AstolfOS](https://github.com/mldkyt/AstolfOS/wiki/) - あなたのLinuxディストリビューションをAstolfOSに変換するスクリプト。
+- [CatGirl Nonsense](https://mldkyt.nekoweb.org/project/catgirlnonsense/) - キャットガールのナンセンスジェネレーター。
+- [uwurandom-rs](https://github.com/mldkyt/uwurandom-rs/) - UwUrandomをRustで書き直しました。

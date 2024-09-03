@@ -6,7 +6,7 @@ Hi, I'm mldkyt! I'm a trans catgirl who enjoys making a variety of content. I ma
 
 I have a [website with my projects](https://mldkyt.nekoweb.org/). Explore them by clicking `Projects` at the top and scrolling through the page. Explore my social accounts by clicking `Socials` on the top of the page. Explore slightly different pieces of work by clicking `Miscellaneous` on the top of the page.
 
-I am on [YouTube](https://youtube.com/@mldkyt), [Twitch](https://twitch.tv/mldkyt), [Reddit](https://reddit.com/u/mldkyt) and [Twitter](https://twitter.com/@mldkyt).
+I am on other platforms as well. See [https://femboy.bio/mldkyt](https://femboy.bio/mldkyt).
 
 Project list (Last updated 2024年08月12日):
 

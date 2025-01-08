@@ -2,7 +2,7 @@
 
 [English](https://github.com/mldchan/mldchan/blob/main//README.md) | [Español](https://github.com/mldchan/mldchan/blob/main//README_ES.md) | [日本語](https://github.com/mldchan/mldchan/blob/main//README_JA.md) | [简体中文](https://github.com/mldchan/mldchan/blob/main//README_CN.md) | [Русский](https://github.com/mldchan/mldchan/blob/main//README_RU.md)
 
-你好，我是 mldchan！我是一个喜欢制作各种内容的跨性别猫娘。我开发了各种项目，包括我的 Discord 机器人 Akabot，Astolfo Forge Mod，它为 Minecraft 添加了一群伪娘，或者 Astolfo is coming for you，这是一个 Windows 程序，Astolfo 会来找你，并称赞你是一个伟大的人。有时我也会制作与我的项目、模组、成功案例、教程和其他内容相关的 YouTube 视频。
+大家好，我是 mldchan！我是一个喜欢制作各种内容的变性猫女。我使用她/她代词。我制作了各种各样的项目，包括 Akabot（我的一个 Discord 机器人）、Astolfo Forge Mod（给威廉与添加了一群女汉子）、Astolfo is coming for you（Astolfo 来找你了），这是一个窗口程序，Astolfo 会来到你身边，称你是一个伟大的人。有时，我还会在 YouTube 上发布我的项目、MOD、成功经验、教程和其他内容的视频。
 
 我有一个[项目网站](https://mldchan.dev/)。点击页面顶部的`Projects`并向下滚动以浏览这些项目。点击页面顶部的`Socials`以浏览我的社交账户。点击页面顶部的`Miscellaneous`以浏览一些稍有不同的作品。
 

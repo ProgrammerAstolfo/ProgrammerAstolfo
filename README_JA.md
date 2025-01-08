@@ -2,7 +2,7 @@
 
 [English](https://github.com/mldchan/mldchan/blob/main//README.md) | [Español](https://github.com/mldchan/mldchan/blob/main//README_ES.md) | [日本語](https://github.com/mldchan/mldchan/blob/main//README_JA.md) | [简体中文](https://github.com/mldchan/mldchan/blob/main//README_CN.md) | [Русский](https://github.com/mldchan/mldchan/blob/main//README_RU.md)
 
-こんにちは、エムエルディーちゃんです！私はトランスキャットガールで、さまざまなコンテンツを作るのが好きです。私のプロジェクトには、Discord用のボット「Akabot」、Minecraftにたくさんのフェンボーイを追加する「Astolfo Forge Mod」、そしてAstolfoがあなたを素晴らしい人間だと言ってくれるWindowsプログラム「Astolfo is coming for you」などがあります。時々、私のプロジェクトやモッド、成功事例、チュートリアルなどのコンテンツを紹介するYouTube動画も作っています。
+こんにちは、エムエルディーです！いろいろなコンテンツを作るのが好きなトランスジェンダーの猫娘です。彼女/彼女の代名詞を使っています。Discordのボット「Akabot」や、Minecraftにフェムボーイをたくさん追加する「Astolfo Forge Mod」、アストルフォがあなたのところにやってきて、あなたを素晴らしい人間だと言ってくれるウィンドウズプログラム「Astolfo is coming for you」など、いろいろなプロジェクトを作っています。また、YouTubeで自分のプロジェクトやMOD、成功談、チュートリアルなどを紹介することもあります。
 
 私のプロジェクトが掲載されている[ウェブサイト](https://mldchan.dev/)もあります。ページの上部にある「Projects」をクリックしてスクロールすると、さまざまなプロジェクトを探索できます。また、ページの上部にある「Socials」をクリックすると、私のソーシャルアカウントを探索できます。「Miscellaneous」をクリックすると、少し異なる作品も見ることができます。
 

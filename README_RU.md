@@ -2,7 +2,7 @@
 
 [English](https://github.com/mldchan/mldchan/blob/main//README.md) | [Español](https://github.com/mldchan/mldchan/blob/main//README_ES.md) | [日本語](https://github.com/mldchan/mldchan/blob/main//README_JA.md) | [简体中文](https://github.com/mldchan/mldchan/blob/main//README_CN.md) | [Русский](https://github.com/mldchan/mldchan/blob/main//README_RU.md)
 
-Привет, я mldchan! Я транс девушка с кошачьими ушками, которая любит создавать разнообразный контент. Я занимаюсь различными проектами, включая Akabot, мой Discord-бот, Astolfo Forge Mod, который добавляет много фембоев в Minecraft, или Astolfo is coming for you, это программа для Windows, где Astolfo приходит к вам, чтобы сказать, что вы замечательный человек. Иногда я также создаю видео на YouTube с моими проектами, модами, успехами, учебными пособиями и другим контентом.
+Привет, я - млдчан! Я трансгендерная девушка-кошка, которая любит делать разнообразный контент. Я использую местоимения «она/он». Я создаю различные проекты, включая Akabot, моего Discord-бота, Astolfo Forge Mod, который добавляет кучу фембоев в Minecraft, или Astolfo is coming for you, который является программой windows, где Astolfo приходит к вам, чтобы назвать вас великим человеком. Иногда я также снимаю видео на YouTube с моими проектами, модами, успехами, туториалами и другим контентом.
 
 У меня есть [веб-сайт с моими проектами](https://mldchan.dev/). Изучите их, кликнув на `Projects` в верхней части страницы и прокрутив вниз. Изучите мои социальные аккаунты, кликнув на `Socials` в верхней части страницы. Изучите немного отличающиеся работы, кликнув на `Miscellaneous` в верхней части страницы.
 

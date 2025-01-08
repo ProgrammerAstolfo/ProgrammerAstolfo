@@ -2,7 +2,7 @@
 
 [English](https://github.com/mldchan/mldchan/blob/main//README.md) | [Español](https://github.com/mldchan/mldchan/blob/main//README_ES.md) | [日本語](https://github.com/mldchan/mldchan/blob/main//README_JA.md) | [简体中文](https://github.com/mldchan/mldchan/blob/main//README_CN.md) | [Русский](https://github.com/mldchan/mldchan/blob/main//README_RU.md)
 
-¡Hola, soy mldchan! Soy una chica trans con orejas de gato que disfruta creando una variedad de contenidos. Realizo diversos proyectos, incluyendo Akabot, un bot de Discord que he creado, Astolfo Forge Mod, que agrega un montón de femboys a Minecraft, o Astolfo is coming for you, que es un programa para Windows en el que Astolfo viene a ti para decirte que eres una gran persona. A veces también hago videos en YouTube con mis proyectos, mods, éxitos, tutoriales y otros contenidos.
+¡Hola, soy mldchan! Soy una catgirl transgénero que disfruta haciendo contenido variado. Uso los pronombres she/her. Hago una variedad de proyectos, incluyendo Akabot, un bot Discord mío, Astolfo Forge Mod, que añade un montón de femboys a Minecraft, o Astolfo viene por ti, que es un programa de Windows donde Astolfo viene a ti para llamarte un gran ser humano. A veces también hago vídeos en YouTube con mis proyectos, mods, éxitos, tutoriales y otros contenidos.
 
 Tengo un [sitio web con mis proyectos](https://mldchan.dev/). Explóralos haciendo clic en `Projects` en la parte superior y desplazándote por la página. Explora mis cuentas sociales haciendo clic en `Socials` en la parte superior de la página. Explora piezas de trabajo ligeramente diferentes haciendo clic en `Miscellaneous` en la parte superior de la página.
 
